@@ -1,0 +1,20 @@
+
+.cart_container{
+    border: 1px solid orangered;
+    border-radius: 15px;
+    padding: 4px;
+}
+.cart_container img{
+    width: 70px;
+    height: 70px;
+    
+}
+
+.cartQuantity{
+    color: orangered;
+}
+.h4{
+    margin-top: -50px;
+    margin-right: 50px;
+    text-align: right;
+}

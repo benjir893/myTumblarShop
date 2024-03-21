@@ -1,0 +1,13 @@
+.bottlz{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.h3{
+    margin-right: 100px;
+    text-align: right;
+}
+.cartLength{
+    color: orangered;
+}
+

@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "brand": "TumblerCo",
+      "stock_quantity": 50,
+      "img": "https://www.thetumblerco.com/cdn/shop/products/pinktumbler2_540x540.jpg?v=1673191008",
+      "price": 12.99
+    },
+    {
+      "id": 2,
+      "brand": "HydroFlask",
+      "stock_quantity": 40,
+      "img": "./pinktumbler2.webp",
+      "price": 24.99
+    },
+    {
+      "id": 3,
+      "brand": "Yeti",
+      "stock_quantity": 60,
+      "img": "./WHITETUMBLER.webp",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "brand": "Contigo",
+      "stock_quantity": 35,
+      "img": "./T3-Org-F_600x.webp",
+      "price": 17.50
+    },
+    {
+      "id": 5,
+      "brand": "Simple Modern",
+      "stock_quantity": 55,
+      "img": "./DS103605574-9.jpg",
+      "price": 15.99
+    },
+    {
+      "id": 6,
+      "brand": "RTIC",
+      "stock_quantity": 25,
+      "img": "./GUEST_73a4ed91-8684-47fc-951a-4e722db968e9.jpg",
+      "price": 19.99
+    },
+    {
+      "id": 7,
+      "brand": "CamelBak",
+      "stock_quantity": 30,
+      "img": "./image5.jpg",
+      "price": 21.75
+    },
+    {
+      "id": 8,
+      "brand": "Zojirushi",
+      "stock_quantity": 45,
+      "img": "./image6.jpg",
+      "price": 32.50
+    },
+    {
+      "id": 9,
+      "brand": "Bubba",
+      "stock_quantity": 20,
+      "img": "./image7.jpg",
+      "price": 14.95
+    },
+    {
+      "id": 10,
+      "brand": "Corkcicle",
+      "stock_quantity": 65,
+      "img": "./image8.jpg",
+      "price": 27.99
+    },
+    {
+      "id": 11,
+      "brand": "Ozark Trail",
+      "stock_quantity": 70,
+      "img": "./image9.webp",
+      "price": 10.00
+    },
+    {
+      "id": 12,
+      "brand": "Ello",
+      "stock_quantity": 15,
+      "img": "./image8.webp",
+      "price": 18.49
+    },
+    {
+      "id": 13,
+      "brand": "Stanley",
+      "stock_quantity": 50,
+      "img": "./image10.jpg",
+      "price": 22.99
+    },
+    {
+      "id": 14,
+      "brand": "Thermos",
+      "stock_quantity": 40,
+      "img": "./image11.jpg",
+      "price": 19.75
+    },
+    {
+      "id": 15,
+      "brand": "Fifty/Fifty",
+      "stock_quantity": 55,
+      "img": "./image12.jpg",
+      "price": 16.99
+    },
+    {
+      "id": 16,
+      "brand": "BUILT",
+      "stock_quantity": 25,
+      "img": "./image13.jpg",
+      "price": 14.50
+    },
+    {
+      "id": 17,
+      "brand": "YETI Rambler",
+      "stock_quantity": 30,
+      "img": "./image14.jpg",
+      "price": 39.99
+    },
+    {
+      "id": 18,
+      "brand": "Igloo",
+      "stock_quantity": 45,
+      "img": "./image15.png",
+      "price": 12.99
+    },
+    {
+      "id": 19,
+      "brand": "ThermoFlask",
+      "stock_quantity": 20,
+      "img": "./image16.jpg",
+      "price": 16.95
+    },
+    {
+      "id": 20,
+      "brand": "MIUCOLOR",
+      "stock_quantity": 65,
+      "img": "./image17.webp",
+      "price": 23.99
+    },
+    {
+      "id": 21,
+      "brand": "Bentgo",
+      "stock_quantity": 70,
+      "img": "./image18.webp",
+      "price": 11.50
+    },
+    {
+      "id": 22,
+      "brand": "GSI Outdoors",
+      "stock_quantity": 15,
+      "img": "./image19.webp",
+      "price": 28.99
+    },
+    {
+      "id": 23,
+      "brand": "MIRA",
+      "stock_quantity": 50,
+      "img": "./image20.jpg",
+      "price": 20.99
+    },
+    {
+      "id": 24,
+      "brand": "Reduce",
+      "stock_quantity": 40,
+      "img": "./image21.jpg",
+      "price": 17.75
+    },
+    {
+      "id": 25,
+      "brand": "Godinger",
+      "stock_quantity": 55,
+      "img": "./image22.webp",
+      "price": 14.99
+    },
+    {
+      "id": 26,
+      "brand": "Pogo",
+      "stock_quantity": 25,
+      "img": "./image22.webp",
+      "price": 11.25
+    },
+    {
+      "id": 27,
+      "brand": "Mammoth Coolers",
+      "stock_quantity": 30,
+      "img": "./image23.jpg",
+      "price": 24.50
+    },
+    {
+      "id": 28,
+      "brand": "Tea Forte",
+      "stock_quantity": 45,
+      "img": "./image24.jpg",
+      "price": 32.95
+    },
+    {
+      "id": 29,
+      "brand": "Lifefactory",
+      "stock_quantity": 20,
+      "img": "./image26.webp",
+      "price": 30.95
+    },
+    {
+      "id": 30,
+      "brand": "Lifefactory",
+      "stock_quantity": 20,
+      "img": "./image27.jpg",
+      "price": 30.95
+    }
+]    
+  
